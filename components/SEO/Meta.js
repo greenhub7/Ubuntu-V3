@@ -5,9 +5,9 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title>Vivek Patel Portfolio - Computer Engineering Student</title>
+            <title>VexPro</title>
             <meta charSet="utf-8" />
-            <meta name="title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="title" content="VexPro-V3" />
             <meta name="description"
                 content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="author" content="Vivek Patel (vivek9patel)" />
@@ -44,7 +44,7 @@ export default function Meta() {
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
 
-            <link rel="icon" href="images/logos/fevicon.svg" />
+            <link rel="icon" href="images/logos/logo.png" />
             <link rel="apple-touch-icon" href="images/logos/logo.png" />
             <link rel="preload" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" as="style" />
             <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet"></link>
